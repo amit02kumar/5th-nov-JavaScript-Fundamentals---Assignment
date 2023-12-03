@@ -1,0 +1,8 @@
+Ternary Operator:-
+-JavaScript also contains a conditional operator that assigns a value to a variable based on some condition.
+-Ternary operator allows us to evaluate conditional expressions and can substitute for if statement in some case.
+-It allows us to write shorter and cleaner code.
+
+syntax:-
+condition ? exprIfTrue : exprIfFalse;
+
